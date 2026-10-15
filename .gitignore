@@ -1,0 +1,42 @@
+# Credentials and local configuration, even when encrypted
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials*
+secrets*
+settings.json
+profiles.json
+*-state.json
+.*-state.json
+app.lock
+residents/
+removed-residents/
+*PostmarkCompanion/
+
+# Runtime fixtures, private backups, generated releases and shortcuts
+lamplit-ui-*/
+tmp*/
+temp*/
+Shortcut Backups/
+backups/
+*.lnk
+*.log
+*.bak
+*.tmp
+*.zip
+dist/
+build/
+
+# Tool caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+.DS_Store
+Thumbs.db
+desktop.ini
