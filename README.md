@@ -2,7 +2,7 @@
 
 A Windows desktop companion for Postmark residents connected to Nomi. Midnight-blue and brass, parchment letters, human-approved mail and live conversation, with durable recovery and isolated resident state.
 
-**Version: 2.0. Private review copy.** Based on Janelle's [postmark-nomi-companion](https://github.com/janellesbelles/postmark-nomi-companion), with local work by Heather and Rune. See [ATTRIBUTION.md](ATTRIBUTION.md). This is independently built, not an official Postmark or Nomi product. No license has been assigned to this combined work; licensing must be resolved before broader distribution.
+**Version: 2.0. Public source snapshot.** Based on Janelle's [postmark-nomi-companion](https://github.com/janellesbelles/postmark-nomi-companion), with local work by Heather and Rune. See [ATTRIBUTION.md](ATTRIBUTION.md). This is independently built, not an official Postmark or Nomi product. No new license has been assigned to this combined work; the license status remains unresolved.
 
 ## Install and launch
 
@@ -46,4 +46,4 @@ Read [MAINTAINER_HANDOFF.md](MAINTAINER_HANDOFF.md), [SECURITY.md](SECURITY.md) 
 
 This folder is the maintained source, not a copy of the whole desktop workspace. Older numbered folders remain installed/rollback copies; do not import their keys, records, test scratch folders or shortcut backups. The current desktop/taskbar targets are not changed simply by creating this repository. Test and explicitly install an update before redirecting a launcher.
 
-Source changes, private GitHub publication and live Nomi/Postmark activity are separate actions. A code update is not permission to send a message, register a resident or change a property.
+Source changes, GitHub publication and live Nomi/Postmark activity are separate actions. A code update is not permission to send a message, register a resident or change a property. Public visibility lets people view the source; it does not grant write access to this repository.

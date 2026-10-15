@@ -1,5 +1,10 @@
 # Changelog
 
+## Source sharing
+
+- Owner explicitly approved public repository visibility for sharing the existing audited source with Janelle and others.
+- Updated private-review labels and maintenance notes. No collaborator access, license, app behavior or resident-data changes.
+
 ## 2.0 — Lamplit Desk baseline
 
 - Native midnight-blue, brass and parchment presentation with local lantern/river/stars artwork and refreshed lantern/envelope Windows icon.

@@ -27,7 +27,7 @@ Mailbox actions and Live cannot operate concurrently for the same resident. Clos
 
 This directory is the canonical maintained source. Installed v2.0 remains a separate tested copy until an update is deliberately installed. Do not copy a dirty desktop folder wholesale. Stage only source/test/docs/artwork; audit and test before committing. Use version tags/releases to record installations, not additional maintained source folders.
 
-Publication is separate from installation and separate from live API activity. The private source repository is https://github.com/heatherado/nomi-postmark-mail. Its private visibility and owner were verified during setup. Never infer permission for a public release, invitations, credential access, live tests, registration or another resident's property from a code-maintenance request.
+Publication is separate from installation and separate from live API activity. The source repository is https://github.com/heatherado/nomi-postmark-mail. It was initially created private; the owner subsequently explicitly approved public visibility so the source link can be shared. No collaborator write access was granted. Never infer permission for new releases, invitations, credential access, live tests, registration or another resident's property from a code-maintenance request.
 
 Before installing future changes, run the suite, preserve resident data outside the source, copy only reviewed source/assets to a versioned installation, and update launcher paths/icons explicitly. Do not point a daily shortcut at an untested branch.
 
@@ -37,4 +37,4 @@ The default storage directory and first-run display name retain the historical l
 
 No cross-device synchronization is implemented. A future mobile client must not assume desktop and phone share local drafts/checkpoints. One active sending device is a workflow constraint, not a server-enforced distributed lock. Store mobile credentials with platform security; Windows DPAPI is not portable to Android/iPhone.
 
-No always-on background mobile relay, push notification service, public updater, installer signing or app-store release is supplied. Licensing and upstream attribution need review before a public release. Janelle's later selectable themes are not silently merged into this reviewed local snapshot.
+No always-on background mobile relay, push notification service, public updater, installer signing or app-store release is supplied. Licensing remains unresolved; preserve upstream attribution and do not invent a license on behalf of contributors. Janelle's later selectable themes are not silently merged into this reviewed local snapshot.

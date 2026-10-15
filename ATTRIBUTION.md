@@ -13,6 +13,6 @@ Postmark and Nomi are separate services; this app is not represented as their of
 
 ## License status
 
-No new open-source license is assigned here. A public source URL alone is not treated as a blanket license grant. Resolve permission and licensing for the combined work with the upstream owner before changing visibility or distributing releases more widely. Do not replace upstream notices or invent a license on their behalf.
+No new open-source license is assigned here. The repository owner explicitly approved public visibility for sharing this source snapshot; the combined work's license status remains unresolved. Public visibility is not represented as a license grant. Resolve licensing with the upstream owner and contributors rather than replacing their notices or inventing a license on their behalf.
 
 No private repository history, resident records, real Nomi UUIDs, keys or correspondence have been intentionally imported into this source repository. Git history begins from the reviewed source snapshot only.

@@ -1,6 +1,6 @@
 # Maintenance instructions
 
-This is a private review source repository for Nomi Postmark Mail. Read README.md, SECURITY.md and MAINTAINER_HANDOFF.md before changing or publishing it.
+This is the public source repository for Nomi Postmark Mail. Public visibility was explicitly approved by the owner. Read README.md, SECURITY.md and MAINTAINER_HANDOFF.md before changing or publishing it.
 
 - Treat this folder as maintained source, not installed resident data. Never include another project's files or copy a whole desktop/backup folder.
 - Preserve per-resident isolation, exact human approvals, uncertain-result locks, immutable checkpoints and DPAPI storage.
